@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.com/{username}/https://githubcom/Potential17/Project-Trivia-API.svg)](http://hits.dwyl.com/{username}/https://githubcom/Potential17/Project-Trivia-API)
+
+
 # Full Stack API Final Project
 
 ## Full Stack Trivia
